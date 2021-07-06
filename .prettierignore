@@ -1,0 +1,7 @@
+node_modules
+.eslintignore
+.gitignore
+.next
+next-env.d.ts
+README.md
+yarn.lock
