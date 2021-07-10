@@ -1,5 +1,5 @@
 ---
-to: components/<%= h.capitalize(name) %>/Styled.ts
+to: components/<%= h.capitalize(name) %>/assets/Styled.ts
 ---
 import styled from 'styled-components';
 import theme from 'styled-theming';
