@@ -32,7 +32,7 @@
     "@typescript-eslint/parser": "^4.28.2",
     "babel-plugin-macros": "^3.1.0",
     "babel-plugin-styled-components": "^1.13.2",
-    "crossenv": "^0.0.2-security",
+    "cross-env": "^7.0.3",
     "eslint": "^7.30.0",
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-airbnb-typescript": "^12.3.1",
