@@ -3,7 +3,7 @@
 ---
 import { ThemeProvider } from 'styled-components';
 import { useRecoilState } from 'recoil';
-import Styled from './assets/styled'
+import Styled from './assets/Styled'
 
 import Header from '@Components/Header';
 import ThemeAtom from '@State/Theme';
