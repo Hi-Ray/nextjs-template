@@ -12,7 +12,7 @@
 - Global css using sass.
 - Sass support.
 - Css-in-js.
-- Fast developing with easy component,layout and state creation.
+- Fast development with easy component,layout and state creation.
 - Isolated scss with scss modules or styled components
 - Easy dependency upgrading
 
@@ -29,7 +29,7 @@
 
 ## Scripts
 
-**Below are scripts that yu can use to make development easier**
+**Below are scripts that you can use to make development easier**
 
 ### Development
 
